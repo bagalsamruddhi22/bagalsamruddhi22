@@ -2,6 +2,10 @@
 # 💫 About Me:
 Hello!<br>I'm Samruddhi Bagal, an explorer driven by curiosity.I love uncovering data insights to create solutions for real-world problems. <br>I'm eager to delve into data-driven research to develop innovative solutions
 
+## 🚀 My Intrests:
+🧠Artificial Intelligence: I'm passionate about developing AI models and algorithms that can learn, reason, and make decisions independently. 
+📊Data Science: I enjoy exploring vast datasets to extract meaningful patterns and insights that can drive innovation. 
+📝Research: I'm motivated to apply AI techniques to tackle challenges in various domains and improve people's lives.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samruddhi-bagal-480244265) 

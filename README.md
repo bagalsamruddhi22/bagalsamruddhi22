@@ -1,3 +1,4 @@
+![Logo](https://github.com/bagalsamruddhi22/bagalsamruddhi22/blob/main/banner%201.png)
 # 💫 About Me:
 Hello!<br>I'm Samruddhi Bagal, an explorer driven by curiosity.I love uncovering data insights to create solutions for real-world problems. <br>I'm eager to delve into data-driven research to develop innovative solutions
 

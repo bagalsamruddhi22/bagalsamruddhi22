@@ -1,5 +1,5 @@
 # Hi there 👋  
-**I’m Samruddhi Bagal** – a third-year Artificial Intelligence and Data Science student with a passion for building innovative solutions that bridge the gap between **AI technology** and **real-world impact**.  
+**I’m Samruddhi Bagal** – a Final-year Artificial Intelligence and Data Science student with a passion for building innovative solutions that bridge the gap between **AI technology** and **real-world impact**.  
   
 ---
 
